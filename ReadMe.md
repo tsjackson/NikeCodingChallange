@@ -14,3 +14,4 @@ limited offline operation
 UI design
 
 ![Alt text](https://postimg.cc/ZBqdGyrC][img]https://i.postimg.cc/ZBqdGyrC/Screen-Shot1.png "Home Screen")
+![image](https://postimg.cc/ZBqdGyrC][img]https://i.postimg.cc/ZBqdGyrC/Screen-Shot1.png)
