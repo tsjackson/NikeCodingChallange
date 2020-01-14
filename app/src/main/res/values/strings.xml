@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="dummy_message">Dummy Message</string>
+    <string name="retry">Retry</string>
+    <string name="no_definition_found">No definition found</string>
+    <string name="refresh">Refresh</string>
+    <string name="ok">OK</string>
+    <string name="search">Search</string>
+    <string name="sort_by_upvote">Sort By Upvotes</string>
+    <string name="sort_by_downvotes">Sort by Downvotes</string>
+</resources>

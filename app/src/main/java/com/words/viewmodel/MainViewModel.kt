@@ -79,5 +79,4 @@ class MainViewModel constructor(private val dictionaryRepository: DictionaryRepo
                 LoadingState.SUCCESS((loadingState.value as LoadingState.SUCCESS).dictionaryWords.sortedBy { it.thumbsDown })
         }
     }
-    //
 }
