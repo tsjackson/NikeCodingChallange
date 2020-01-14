@@ -13,4 +13,4 @@ Cache results for limited offline operation
 limited offline operation
 UI design
 
-![Alt text](https://postimg.cc/gallery/270hk1244/ "Home Screen")
+![Alt text](https://postimg.cc/ZBqdGyrC][img]https://i.postimg.cc/ZBqdGyrC/Screen-Shot1.png "Home Screen")
