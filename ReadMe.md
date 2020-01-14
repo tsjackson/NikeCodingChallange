@@ -12,3 +12,5 @@ Handle configuration changes gracefully
 Cache results for limited offline operation
 limited offline operation
 UI design
+
+![Alt text](https://postimg.cc/gallery/270hk1244/ "Home Screen")
